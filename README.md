@@ -1,6 +1,7 @@
-# Welcome to My Portfolio 👋
-
 ![Banner](banner.png)
+
+
+# Welcome to My Portfolio 👋
 
 ## About Me
 I am a passionate **Web Developer** specialized in building scalable and elegant digital solutions.  
