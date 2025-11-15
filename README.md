@@ -1,16 +1,24 @@
-## Hi there 👋
+# Welcome to My Portfolio 👋
 
-<!--
-**bernercontreras-GT/Bernercontreras-GT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](banner.png)
 
-Here are some ideas to get you started:
+## About Me
+I am a passionate **Web Developer** specialized in building scalable and elegant digital solutions.  
+My focus is on creating efficient workflows and user‑friendly applications for clubs, restaurants, and small businesses.  
+With a strong background in both frontend and backend development, I aim to deliver secure, maintainable, and visually coherent projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies I Work With
+- **HTML5** – clean and semantic structure  
+- **CSS3** – modular and elegant design  
+- **JavaScript** – dynamic and interactive interfaces  
+- **PHP** – robust backend logic and APIs  
+- **WordPress** – customized themes and plugins for business solutions  
+
+## 🚀 What I Do
+- Design and implement **CRUD systems** with optimized database structures  
+- Develop **modular UIs** with reusable CSS components  
+- Integrate **frontend forms** with backend APIs for seamless user experiences  
+- Build and customize **WordPress solutions** tailored to client needs  
+ 
+## 📫 Contact
+Feel free to connect with me on [GitHub](https://github.com/Bernercontreras-GT) or reach out via email: Bernercontreras@gmail.com
